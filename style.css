@@ -1,0 +1,20 @@
+body {
+    background: #72310A;
+}
+
+h1 {
+    background: #1FE21D;
+}
+
+ul {
+    background: red;
+}
+
+li {
+    background: yellow;
+    border: 5px tan blue;
+}
+
+#kanat {
+ background: rgb(228, 0, 190);
+}
